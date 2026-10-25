@@ -10,16 +10,6 @@ Mini web app **offline, gratuita e statica** per la formazione del personale del
 
 Non servono account, installazioni, connessioni Internet, API key o servizi esterni.
 
-## Pubblicare con GitHub Pages
-
-1. Crea un nuovo repository su GitHub.
-2. Carica `index.html` e `README.md` nella **radice** del repository.
-3. Apri **Settings → Pages**.
-4. In *Build and deployment*, seleziona **Deploy from a branch**, quindi il branch principale (di solito `main`) e la cartella **`/ (root)`**.
-5. Salva e apri l'indirizzo indicato da GitHub Pages quando la pubblicazione è pronta.
-
-> Non occorrono workflow, build, Node.js o pacchetti npm. Il nome `index.html` è necessario per l'apertura automatica della pagina.
-
 ## Due esercizi
 
 ### 1. Il prompt sotto la lente (8–10 minuti)
@@ -82,3 +72,18 @@ prima-di-inviare/
 ```
 
 > La guida del formatore contiene le soluzioni: se il repository è pubblico, considerare di conservarla separatamente o di non pubblicarla, distribuendola soltanto al docente.
+>
+> ## 📄 Licenza
+
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file `LICENSE` del repo.
+
+## 👤 Autore e contesto
+
+**Gianluigi Cogo** — consulente e docente sui temi dell'IA generativa nella Pubblica Amministrazione.
+
+L'app nasce come esercitazione della **Giornata 1** del percorso operativo *"L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa"* (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti).
+
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
