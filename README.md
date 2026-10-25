@@ -2,6 +2,15 @@
 
 Mini web app **offline, gratuita e statica** per la formazione del personale della Pubblica Amministrazione italiana. Include due esercizi individuali sulla minimizzazione dei dati e sulla scelta di un ambiente IA autorizzato.
 
+---
+
+<img width="1845" height="820" alt="Screenshot 2026-10-25 alle 10 17 52" src="https://github.com/user-attachments/assets/86b357d3-741d-4b42-ab52-0052597c02b2" />
+
+
+Demo on line: https://gigicogo.github.io/AI-Prima-di-inviare/
+
+---
+
 ## Avvio rapido
 
 1. Scarica `index.html`.
